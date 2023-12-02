@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inno-waluza
 - 👀 I’m interested in python and java programming
 - 🌱 learning computer networks and python
-- 💞️ I’m currently playing with APIs
+- Am busy with Data Structures, Cryptography, Linux and Electronics in Zomba
 - 📫 innowaluza@gmail.com
 
 <!---
