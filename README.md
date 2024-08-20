@@ -8,6 +8,22 @@ Welcome to my world of exploration and coding adventures! 🚀 I thrive on the t
 - 🖥️ Currently exploring network programming, routing, and switching with a focus on Cisco technologies.
 - 🌐 Let's connect and embark on this coding journey together! Feel free to reach out to me at: innowaluza@gmail.com
 
+  <p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=inno-waluza&show_icons=true&theme=vision-friendly-dark">
+  <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inno-waluza&layout=compact&theme=tokyonight&hide_progress=true&langs_count=40&count_private=true"></img>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inno-waluza&theme=2077" width="600" height="300" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inno-waluza&theme=2077" width="600" height="300" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=inno-waluza&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"></img>
+  <img src="https://github-profile-trophy.vercel.app/?username=inno-waluza"></img>
+  <img width="600" height="300" src="https://streak-stats.demolab.com/?user=inno-waluza"></img>
+</p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=inno-waluza&style=for-the-badge&color=orange" alt=""/>
+</div>
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
+
 <!-- Icons -->
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](link_to_your_profile)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](link_to_your_profile)
