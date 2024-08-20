@@ -20,9 +20,6 @@ Welcome to my world of exploration and coding adventures! 🚀 I thrive on the t
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=inno-waluza&style=for-the-badge&color=orange" alt=""/>
 </div>
-<p align="center">
- <img width="1000" src="assets/snake.svg" alt="snake"/>
-</p>
 
 <!-- Icons -->
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](link_to_your_profile)
